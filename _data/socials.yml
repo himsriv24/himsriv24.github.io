@@ -1,18 +1,7 @@
-- name: Google Scholar
-  url: https://scholar.google.com/citations?user=rlqKrlwAAAAJ&hl=en
-  icon: ai ai-google-scholar
-- name: LinkedIn
-  url: https://www.linkedin.com/in/himanshu-kumar-ph-d-ba2298a7
-  icon: fab fa-linkedin
-- name: X
-  url: https://x.com/_himanshu_sri
-  icon: fab fa-x-twitter
-- name: GitHub
-  url: https://github.com/himsriv24
-  icon: fab fa-github
-- name: ResearchGate
-  url: https://www.researchgate.net/profile/Himanshu-Kumar-8
-  icon: ai ai-researchgate
-- name: Email
-  url: mailto:your-email@ccf.org
-  icon: fas fa-envelope
+academic_email: kumarh4@ccf.org
+github_username: himsriv24
+linkedin_username: himanshu-kumar-ph-d-ba2298a7
+x_username: _himanshu_sri
+scholar_userid: rlqKrlwAAAAJ
+researchgate_username: Himanshu-Kumar-8
+orcid_id: 0000-0003-3255-4588
