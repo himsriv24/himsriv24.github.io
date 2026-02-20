@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://himsriv24.github.io/sitemap.xml
+Sitemap: https://himsriv24.github.io/himanshukumar.github.io/sitemap.xml
