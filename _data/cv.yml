@@ -54,11 +54,11 @@ cv:
         location: Cleveland, OH, USA
         start_date: 2024
         end_date: present
-        summary: Neurological Institute — SPIKE Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research.
+        summary: Neurological Institute — NIID Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research.
         highlights:
           - "Seizure segmentation in stereotactic EEG (SEEG) using contrastive latent representations"
           - "Seizure onset zone (SOZ) localization using advanced signal processing and deep learning"
-          - "Superlet transform and transformer-based approaches for sEEG analysis"
+          - "Superlet transform and transformer-based approaches for SEEG analysis"
 
       - company: University Hospital RWTH Aachen
         position: Guest Scientist (DAAD Fellow)
@@ -76,7 +76,7 @@ cv:
         location: Chennai, India
         start_date: 2019
         end_date: 2024
-        summary: NIID Lab, Department of Applied Mechanics and Biomedical Engineering. Research on EEG-based emotion recognition using advanced time-frequency and nonlinear methods.
+        summary: Department of Applied Mechanics and Biomedical Engineering. Research on EEG-based emotion recognition using advanced time-frequency and nonlinear methods.
         highlights:
           - "Developed multi-modal (EEG, PPG, EDA) signal analysis frameworks for affective computing"
           - "Designed nonlinear phase-based functional connectivity measures for emotion recognition"
@@ -95,6 +95,11 @@ cv:
         date: 2022
         awarder: German Academic Exchange Service (DAAD)
         summary: Prestigious fellowship for doctoral research at RWTH Aachen University, Germany. Funded by the German Federal Ministry of Education and Research.
+
+      - title: Advanced Research Opportunities Program (AROP) Fellowship
+        date: 2021
+        awarder: RWTH Aachen University
+        summary: Competitive research fellowship from RWTH Aachen University supporting advanced doctoral research collaboration.
 
       - title: Half-Time Research Assistantship (HTRA)
         date: 2019
