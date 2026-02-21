@@ -46,7 +46,7 @@ cv:
         end_date: 2018
         highlights:
           - "Bronze Medal for outstanding academic performance"
-          - "Thesis: Design and Development of a Smart Pulse Oximeter (SpO2) with Early Warning System"
+          - "Thesis: Detection of Valvular Heart Diseases (Aortic Regurgitation, Mitral Stenosis, Aortic Stenosis, and Mitral Valve Prolapse) Using Heart Sounds (PCG) and Machine Learning"
 
     Experience:
       - company: Cleveland Clinic
