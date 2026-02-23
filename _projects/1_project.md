@@ -2,7 +2,7 @@
 layout: page
 title: Three-Phase Seizure Segmentation in SEEG
 description: Semi-supervised changepoint detection for automated delineation of seizure onset, intra-ictal transition, and termination in stereoelectroencephalography recordings.
-img: assets/img/projects/seizure_segmentation.png
+img: assets/img/projects/seizure_segmentation.jpg
 importance: 1
 category: Cleveland Clinic
 related_publications: true
@@ -76,4 +76,4 @@ By coupling physiologically meaningful features with exact changepoint detection
 
 ## Related Publications
 
-{% cite kumar2025changepoint %}
+\cite{kumar2026threephase}
