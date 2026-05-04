@@ -51,7 +51,7 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: 0.86rem;
     line-height: 1.5;
   }
 
@@ -189,7 +189,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: 1rem;
 }
 
 .sidebar .author__desktop {
@@ -210,6 +210,7 @@
 
 .author__bio {
   margin: 0;
+  font-size: 0.86rem;
 
   @include breakpoint($large) {
     margin-top: 10px;
