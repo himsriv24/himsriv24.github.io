@@ -19,6 +19,7 @@ My research interests span neurotechnology, brain-machine interfaces, biomedical
 
 News
 ======
+* **May 2026** — Paper *Subject-independent emotion recognition with EEG bispectral quadratic phase coupling features and explainable machine learning* published online in *Biomedical Physics & Engineering Express*. [Read on IOPscience](https://iopscience.iop.org/article/10.1088/2057-1976/ae711a)
 * **April 2026** — Paper *Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis* published online in *Annals of Biomedical Engineering*. [Read on Springer](https://doi.org/10.1007/s10439-026-04097-7)
 * **April 2026** — Paper *EEG-based emotion recognition using super-resolution superlet transform and self-attention convolutional neural network* accepted in *Biomedical Signal Processing and Control*. [Read on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809426009043?dgcid=author)
 * **March 2026** — Abstract accepted as Printed Poster Presentation at the 2026 ASSFN Biennial Meeting, Cleveland, OH (May 30–June 2, 2026).
