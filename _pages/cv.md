@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="{{ base_path }}/files/CV_Himanshu_Kumar.pdf" class="btn btn--info" style="margin-bottom: 20px;" target="_blank"><i class="fas fa-file-pdf"></i> Download PDF CV</a>
+
 Education
 ======
 * **Ph.D., Biomedical Engineering** — Indian Institute of Technology (IIT) Madras, Chennai, India (2019–2024)
