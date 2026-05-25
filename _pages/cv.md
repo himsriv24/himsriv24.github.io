@@ -50,6 +50,13 @@ Awards & Fellowships
 * **Half-Time Research Assistantship (HTRA)** (2019–2024) — Ministry of Education, Government of India
 * **Bronze Medal — Academic Excellence** (2018) — IIIT Allahabad, Integrated M.Tech in Biomedical Engineering
 
+Invited Lectures
+======
+* **BME Engineering Training Program** — IITM and ISRO Human Spaceflight Training Program, IIT Madras (14 February 2025)
+* **Short-Term Programme on Medical Informatics and Digital Health** — IIT Hyderabad (21 March 2025)
+* **Faculty Development Program on Next Generation Health Technologies: Integrating Signal Processing, Teleneurology and AI** — Adi Shankaracharya Institute of Engineering and Technology, Kerala (6 June 2025)
+* **4th IEEE International Conference on Sensors and Related Networks** — Preconference Lecture, Vellore Institute of Technology (VIT), Vellore (17 July 2025)
+
 Skills
 ======
 * **Signal Processing:** EEG/SEEG Analysis, Superlet Transform, Wavelet Packet Transform, Phase-Amplitude Coupling, Functional Connectivity, Time-Frequency Analysis, Nonlinear Dynamics
