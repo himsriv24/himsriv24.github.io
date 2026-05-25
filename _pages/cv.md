@@ -73,6 +73,4 @@ Service & Reviewing
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please see the [Publications](/publications/) page for the full list of publications.
