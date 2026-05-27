@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [Epilepsy Center, Neurological Institute, Cleveland Clinic](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy), working with [Dr. Balu Krishnan](https://scholar.google.com/citations?user=e9PG7noAAAAJ&hl=en) in the [SPIKE Lab](https://spikelab-ccf.github.io/) on neurotechnology and brain signal processing for epilepsy research. My current work focuses on seizure segmentation in stereotactic EEG (SEEG) and unsupervised learning of ictal patterns using contrastive latent representations.
+I am a Postdoctoral Fellow at the [Epilepsy Center, Neurological Institute, Cleveland Clinic](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy), working with [Dr. Balu Krishnan](https://www.lerner.ccf.org/clinical/krishnan/) in the [SPIKE Lab](https://spikelab-ccf.github.io/) on neurotechnology and brain signal processing for epilepsy research. My current work focuses on seizure segmentation in stereotactic EEG (SEEG) and unsupervised learning of ictal patterns using contrastive latent representations.
 
 My research brings together interpretable changepoint methods for seizure phase segmentation, signal processing and representation learning for seizure onset zone localization, and explainable machine learning for EEG/SEEG, affective computing, and brain network analysis.
 
