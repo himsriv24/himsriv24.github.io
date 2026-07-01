@@ -24,7 +24,11 @@ Education
 
 Experience
 ======
-* **Postdoctoral Fellow** — Cleveland Clinic, Neurological Institute, Cleveland, OH, USA (2024–present)
+* **Assistant Professor** — [Mehta Family School of Biosciences and Biomedical Engineering](https://bsbe.iiti.ac.in), [IIT Indore](https://www.iiti.ac.in), Indore, India (2026–present)
+  * Room FC 509, LRC Building, Khandwa Road, Simrol, Indore (M.P.) 453552
+  * Research: AI/ML for biomedical data, neural signal processing (EEG/SEEG/MEG), brain connectivity and network neuroscience, neural engineering, AI for healthcare and clinical diagnostics
+
+* **Postdoctoral Fellow** — Cleveland Clinic, Neurological Institute, Cleveland, OH, USA (2024–2026)
   * SPIKE Lab, working with Dr. Balu Krishnan on neurotechnology and brain signal processing for epilepsy research
   * Seizure segmentation in stereotactic EEG (SEEG) using contrastive latent representations
   * Seizure onset zone (SOZ) localization using advanced signal processing and deep learning
