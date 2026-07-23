@@ -22,4 +22,19 @@
 <div class="page__footer-copyright">
   &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
   Site last updated {{ "now" | date: '%Y-%m-%d' }}
+  {% if site.visitor_counter %}
+    <br />
+    <a
+      href="https://visitorbadge.io/"
+      target="_blank"
+      rel="noopener noreferrer"
+      aria-label="Site visitor count"
+    >
+      <img
+        src="https://api.visitorbadge.io/api/visitors?path={{ site.url | append: site.baseurl | url_encode }}&label=Visitors&labelColor=%23555555&countColor=%23263759&style=flat"
+        alt="Visitor count"
+        referrerpolicy="no-referrer"
+      />
+    </a>
+  {% endif %}
 </div>

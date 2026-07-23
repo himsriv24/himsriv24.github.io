@@ -16,6 +16,7 @@ description              : &description "Assistant Professor at IIT Indore | Bio
 url                      : https://himsriv24.github.io
 baseurl                  : ""
 repository               : "himsriv24/himsriv24.github.io"
+visitor_counter          : true # displays the site-wide visit count in the footer
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
