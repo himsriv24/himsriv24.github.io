@@ -24,7 +24,8 @@ Education
 
 Experience
 ======
-* **Assistant Professor** — [Mehta Family School of Biosciences and Biomedical Engineering](https://bsbe.iiti.ac.in), [IIT Indore](https://www.iiti.ac.in), Indore, India (2026–present)
+* **Assistant Professor** — Mehta Family School of Biosciences and Biomedical Engineering, [IIT Indore](https://www.iiti.ac.in), Indore, India (2026–present)
+  * Director, [AI & Neural Engineering Laboratory (AI-NE Lab)](https://ainelab.github.io)
   * Room FC 509, LRC Building, Khandwa Road, Simrol, Indore (M.P.) 453552
   * Research: AI/ML for biomedical data, neural signal processing (EEG/SEEG/MEG), brain connectivity and network neuroscience, neural engineering, AI for healthcare and clinical diagnostics
 

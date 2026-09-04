@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the [Mehta Family School of Biosciences and Biomedical Engineering](https://bsbe.iiti.ac.in), [IIT Indore](https://www.iiti.ac.in). My research brings together biomedical signal processing, neurotechnology, and machine learning — with a focus on EEG/SEEG analysis, seizure characterization, affective computing, and brain network analysis.
+I am an Assistant Professor at the Mehta Family School of Biosciences and Biomedical Engineering, [IIT Indore](https://www.iiti.ac.in), where I lead the [AI & Neural Engineering Laboratory (AI-NE Lab)](https://ainelab.github.io). My research brings together biomedical signal processing, neurotechnology, and machine learning — with a focus on EEG/SEEG analysis, seizure characterization, affective computing, and brain network analysis.
 
 Previously, I was a Postdoctoral Fellow at the [Epilepsy Center, Neurological Institute, Cleveland Clinic](https://my.clevelandclinic.org/departments/neurological/depts/epilepsy), working with [Dr. Balu Krishnan](https://www.lerner.ccf.org/clinical/krishnan/) in the [SPIKE Lab](https://spikelab-ccf.github.io/), where my work focused on seizure segmentation in stereotactic EEG (SEEG) and unsupervised learning of ictal patterns using contrastive latent representations.
 
@@ -27,7 +27,7 @@ I am a peer reviewer for journals including *IEEE Transactions on Affective Comp
 News
 ======
 * **September 2026** — Paper *Identifiability of Spectral Graph Model Parameters in Clinical MEG: Implications for Biophysical Interpretation and SOZ Localization* published online in *IEEE Transactions on Biomedical Engineering*. [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11675923)
-* **July 2026** — Joined [IIT Indore](https://www.iiti.ac.in/) as an Assistant Professor in the Mehta Family School of Biosciences and Biomedical Engineering.
+* **July 2026** — Joined [IIT Indore](https://www.iiti.ac.in/) as an Assistant Professor in the Mehta Family School of Biosciences and Biomedical Engineering and established the [AI-NE Lab](https://ainelab.github.io).
 * **May 2026** — Paper *Subject-independent emotion recognition with EEG bispectral quadratic phase coupling features and explainable machine learning* published online in *Biomedical Physics & Engineering Express*. [Read on IOPscience](https://iopscience.iop.org/article/10.1088/2057-1976/ae711a)
 * **April 2026** — Paper *Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis* published online in *Annals of Biomedical Engineering*. [Read on Springer](https://doi.org/10.1007/s10439-026-04097-7)
 * **April 2026** — Paper *EEG-based emotion recognition using super-resolution superlet transform and self-attention convolutional neural network* accepted in *Biomedical Signal Processing and Control*. [Read on ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1746809426009043?dgcid=author)

@@ -1,7 +1,8 @@
 # Himanshu Kumar, Ph.D. — Personal Academic Website
 
 [![Live Site](https://img.shields.io/badge/Live_Site-himsriv24.github.io-blue?style=flat&logo=github)](https://himsriv24.github.io)
-[![Affiliation](https://img.shields.io/badge/Affiliation-IIT_Indore-darkgreen)](https://bsbe.iiti.ac.in)
+[![Lab](https://img.shields.io/badge/Lab-AI--NE_Lab-teal)](https://ainelab.github.io)
+[![Affiliation](https://img.shields.io/badge/Affiliation-IIT_Indore-darkgreen)](https://www.iiti.ac.in)
 [![Deployment Status](https://github.com/himsriv24/himsriv24.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/himsriv24/himsriv24.github.io/actions)
 
 Source code for the personal academic website of **Dr. Himanshu Kumar**, Assistant Professor at the Mehta Family School of Biosciences and Biomedical Engineering, [IIT Indore](https://www.iiti.ac.in).
