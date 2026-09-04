@@ -12,4 +12,4 @@ This project applies the **Spectral Graph Model (SGM)** — a biophysically-grou
 
 The work aims to provide **mechanistically interpretable, non-invasive biomarkers** that complement existing pre-surgical evaluation methods — particularly for MRI-negative patients where conventional localization is most challenging.
 
-*Manuscript in preparation.*
+**Publication:** *Identifiability of Spectral Graph Model Parameters in Clinical MEG: Implications for Biophysical Interpretation and SOZ Localization*, *IEEE Transactions on Biomedical Engineering* (2026). [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11675923) | [DOI: 10.1109/TBME.2026.3730069](https://doi.org/10.1109/TBME.2026.3730069)

@@ -26,6 +26,7 @@ I am a peer reviewer for journals including *IEEE Transactions on Affective Comp
 
 News
 ======
+* **September 2026** — Paper *Identifiability of Spectral Graph Model Parameters in Clinical MEG: Implications for Biophysical Interpretation and SOZ Localization* published online in *IEEE Transactions on Biomedical Engineering*. [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/11675923)
 * **July 2026** — Joined [IIT Indore](https://www.iiti.ac.in/) as an Assistant Professor in the Mehta Family School of Biosciences and Biomedical Engineering.
 * **May 2026** — Paper *Subject-independent emotion recognition with EEG bispectral quadratic phase coupling features and explainable machine learning* published online in *Biomedical Physics & Engineering Express*. [Read on IOPscience](https://iopscience.iop.org/article/10.1088/2057-1976/ae711a)
 * **April 2026** — Paper *Three-Phase Seizure Segmentation in Stereotactic EEG Using Envelope-Based Multivariate Changepoint Analysis* published online in *Annals of Biomedical Engineering*. [Read on Springer](https://doi.org/10.1007/s10439-026-04097-7)
